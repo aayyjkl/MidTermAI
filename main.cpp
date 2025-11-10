@@ -14,8 +14,8 @@ int main(int argc, char *argv[])
     int screenHeight = screenGeometry.height();
     
     // Window dimensions
-    int windowWidth = 400;
-    int windowHeight = 300;
+    int windowWidth = 800;
+    int windowHeight = 600;
     
     // Calculate positions to center both windows horizontally
     int totalWidth = windowWidth * 2;
